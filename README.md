@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**DavidAr55/DavidAr55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I am a Backend Developer with over 3 years of experience specializing in PHP, Python, and Node.js. Here is a brief overview of my skills and experience:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** PHP, Python, SQL, MySQL, SQLite, C, C++, C#, Java, JavaScript
+- **Data Structures:** Search trees, graphs, linked lists, object matrices
+- **Server Management:** Configuring Linux servers, managing and deploying servers, configuring cells and DNS
+- **Linux Distributions:** Debian, Kali, Ubuntu, Arch
+- **Version Control:** Git, GitHub
+- **Containerization:** Docker
+- **Design Software:** Photoshop, Illustrator
+
+I am passionate about continuous learning and always strive to expand my knowledge. In addition to backend development, I have also been involved in creating visually appealing systems by generating assets and graphic identities for various projects.
+
+## Skills Summary
+
+```php
+<?php
+$information_about_me = array(
+    "name" => "David A Loera Olmos",
+    "age" => 22,
+    "occupation" => "Software Development Engineer",
+    "languages" => ["PHP", "Python", "Java", "C/C++/C#", "Js"]
+);
+?>
