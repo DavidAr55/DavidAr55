@@ -1,3 +1,14 @@
+```php
+<?php
+$information_about_me = array(
+    "name" => "David A Loera Olmos",
+    "age" => 22,
+    "occupation" => "Software Development Engineer",
+    "languages" => ["PHP", "Python", "Java", "C/C++/C#", "Js"]
+);
+?>
+```
+
 # Welcome to My GitHub Profile!
 
 ## About Me
@@ -13,15 +24,3 @@ Hello! I am a Backend Developer with over 3 years of experience specializing in 
 - **Design Software:** Photoshop, Illustrator
 
 I am passionate about continuous learning and always strive to expand my knowledge. In addition to backend development, I have also been involved in creating visually appealing systems by generating assets and graphic identities for various projects.
-
-## Skills Summary
-
-```php
-<?php
-$information_about_me = array(
-    "name" => "David A Loera Olmos",
-    "age" => 22,
-    "occupation" => "Software Development Engineer",
-    "languages" => ["PHP", "Python", "Java", "C/C++/C#", "Js"]
-);
-?>
