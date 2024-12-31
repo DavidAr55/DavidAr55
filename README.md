@@ -8,7 +8,7 @@ $information_about_me = array(
     "name" => "David A Loera Olmos",
     "age" => 23,
     "occupation" => "Software Development Engineer",
-    "languages" => ["PHP", "Python", "Go", "Java", "C/C++/C#", "Js"]
+    "languages" => ["PHP", "Python", "Go", "SQL", "C/C++/C#", "Java", "JavaScript"]
 );
 ?>
 ```
@@ -17,7 +17,7 @@ $information_about_me = array(
 
 Hello! I am a Backend Developer with over 3 years of experience specializing in PHP and Python. Here is a brief overview of my skills and experience:
 
-- **Programming Languages:** PHP, Python, SQL, C++/C#, Java, JavaScript
+- **Programming Languages:** PHP, Python, Go, SQL, C++/C#, Java, JavaScript
 - **Data Structures:** Search trees, graphs, linked lists, object matrices
 - **Server Management:** Configuring Linux servers, managing and deploying servers, configuring cells and DNS
 - **Linux Distributions:** Debian and Fedora
