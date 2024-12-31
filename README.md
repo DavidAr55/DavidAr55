@@ -6,9 +6,9 @@
 <?php
 $information_about_me = array(
     "name" => "David A Loera Olmos",
-    "age" => 22,
+    "age" => 23,
     "occupation" => "Software Development Engineer",
-    "languages" => ["PHP", "Python", "Java", "C/C++/C#", "Js"]
+    "languages" => ["PHP", "Python", "Go", "Java", "C/C++/C#", "Js"]
 );
 ?>
 ```
